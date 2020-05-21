@@ -9,7 +9,7 @@
     <p>Logo</p>
   </div>
   <div class="middle">
-    <h1>COMING SOON</h1>
+    <h1>COMING SOON Test App</h1>
     <hr>
     <p>35 days</p>
   </div>
