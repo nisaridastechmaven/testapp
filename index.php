@@ -11,7 +11,7 @@
 		<div class="middle">
 			<h1>COMING SOON</h1>
 			<hr>
-			<p>35 days</p>
+			<p>35 days </p>
 		</div>
 		<div class="bottomleft">
 			<p>Some text</p>
